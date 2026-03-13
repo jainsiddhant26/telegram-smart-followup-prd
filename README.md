@@ -6,6 +6,12 @@ The feature helps users avoid missed conversations by automatically identifying 
 
 ---
 
+## Prototype
+
+🎨 **Figma Prototype:** [View Interactive Prototype](https://www.figma.com/make/ppSdqlWkgVEKMrFq1AHOSa/Telegram-Smart-Follow-Up-Reminders?fullscreen=1&t=DAPeMRaTAXhXOlq3-1)
+
+---
+
 ## Problem
 
 In messaging platforms, users often forget to follow up on important conversations.
